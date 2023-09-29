@@ -1,0 +1,25 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-24 13:07:49 --> Could not find the language line "enter_valid_mobile"
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-24 13:07:49 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2022-03-24 13:07:49 --> Could not find the language line "mobile"
+ERROR - 2022-03-24 13:07:49 --> Could not find the language line "mobile"
+ERROR - 2022-03-24 13:08:24 --> Could not find the language line "transfer"
+ERROR - 2022-03-24 13:08:24 --> Could not find the language line "account"
+ERROR - 2022-03-24 13:08:24 --> Could not find the language line "balance"
+ERROR - 2022-03-24 13:08:28 --> Could not find the language line "transfer"
+ERROR - 2022-03-24 13:08:28 --> Could not find the language line "account"
+ERROR - 2022-03-24 13:08:28 --> Could not find the language line "balance"
+ERROR - 2022-03-24 13:08:38 --> Could not find the language line "transfer"
+ERROR - 2022-03-24 13:08:38 --> Could not find the language line "account"
+ERROR - 2022-03-24 13:08:38 --> Could not find the language line "balance"
+ERROR - 2022-03-24 13:08:52 --> Could not find the language line "transfer"
+ERROR - 2022-03-24 13:08:52 --> Could not find the language line "account"
+ERROR - 2022-03-24 13:08:52 --> Could not find the language line "balance"
+ERROR - 2022-03-24 13:46:11 --> Could not find the language line "transfer"
+ERROR - 2022-03-24 13:46:11 --> Could not find the language line "account"
+ERROR - 2022-03-24 13:46:11 --> Could not find the language line "balance"
+ERROR - 2022-03-24 17:22:48 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2022-03-24 17:22:48 --> Could not find the language line "mobile"

@@ -1,0 +1,18 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-23 13:03:41 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2023-09-23 13:03:41 --> Could not find the language line "mobile"
+ERROR - 2023-09-23 13:03:55 --> Could not find the language line "transfer"
+ERROR - 2023-09-23 13:03:55 --> Could not find the language line "account"
+ERROR - 2023-09-23 13:03:55 --> Could not find the language line "balance"
+ERROR - 2023-09-23 13:03:59 --> Could not find the language line "transfer"
+ERROR - 2023-09-23 13:03:59 --> Could not find the language line "account"
+ERROR - 2023-09-23 13:03:59 --> Could not find the language line "ref_no/receipt_no"
+ERROR - 2023-09-23 13:03:59 --> Could not find the language line "payment_type"
+ERROR - 2023-09-23 13:03:59 --> Could not find the language line "collected_by"
+ERROR - 2023-09-23 13:04:00 --> Could not find the language line "receipt"
+ERROR - 2023-09-23 13:04:00 --> Could not find the language line "payment type"
+ERROR - 2023-09-23 13:04:00 --> Could not find the language line "collected by"
+ERROR - 2023-09-23 13:04:00 --> Could not find the language line "ref_no/receipt_no"
+ERROR - 2023-09-23 13:04:00 --> Could not find the language line "payment_type"
+ERROR - 2023-09-23 13:04:00 --> Could not find the language line "collected_by"

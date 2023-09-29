@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-27 11:55:03 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2022-05-27 11:55:03 --> Could not find the language line "mobile"
+ERROR - 2022-05-27 15:06:55 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2022-05-27 15:06:55 --> Could not find the language line "mobile"
+ERROR - 2022-05-27 15:07:11 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2022-05-27 15:07:11 --> Could not find the language line "mobile"
+ERROR - 2022-05-27 15:07:11 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2022-05-27 15:07:11 --> Could not find the language line "mobile"
+ERROR - 2022-05-27 15:07:12 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2022-05-27 15:07:12 --> Could not find the language line "mobile"
+ERROR - 2022-05-27 15:07:13 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2022-05-27 15:07:13 --> Could not find the language line "mobile"
+ERROR - 2022-05-27 15:07:13 --> Could not find the language line "enter_valid_mobile"
+ERROR - 2022-05-27 15:07:13 --> Could not find the language line "mobile"

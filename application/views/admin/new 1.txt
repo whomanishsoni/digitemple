@@ -1,0 +1,6 @@
+ALTER TABLE `app_donation` ADD `date` DATE NOT NULL AFTER `created_on`;
+
+ALTER TABLE `app_donation` ADD `details` VARCHAR(200) NOT NULL AFTER `account_id`;
+
+ALTER TABLE `app_expense` ADD `party_name` VARCHAR(50) NOT NULL AFTER `category_id`, ADD `party_phone` VARCHAR(20) NOT NULL AFTER `party_name`, ADD `ref_no` VARCHAR(20) NOT NULL AFTER `party_phone`;
+
